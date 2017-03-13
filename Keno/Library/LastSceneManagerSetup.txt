@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/TK2DROOT/tk2dUI_demo/5 - ScrollableArea.unity
+  isLoaded: 1
+  isActive: 1

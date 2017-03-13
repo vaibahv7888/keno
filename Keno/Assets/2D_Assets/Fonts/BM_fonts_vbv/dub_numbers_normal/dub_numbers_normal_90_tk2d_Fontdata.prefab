@@ -1,0 +1,3692 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &126802
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 436508}
+  - 114: {fileID: 11471330}
+  m_Layer: 0
+  m_Name: dub_numbers_normal_90_tk2d_Fontdata
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &436508
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 126802}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+--- !u!114 &11471330
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 126802}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 023bfc31841d2f24ba7eb00462467382, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 2
+  lineHeight: 0.9008781
+  chars:
+  - p0: {x: 0, y: 0, z: 0}
+    p1: {x: 0, y: 0, z: 0}
+    uv0: {x: 0, y: 0, z: 0}
+    uv1: {x: 0, y: 0, z: 0}
+    flipped: 0
+    gradientUv:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    advance: 0
+    channel: 0
+  - p0: {x: 0, y: 0, z: 0}
+    p1: {x: 0, y: 0, z: 0}
+    uv0: {x: 0, y: 0, z: 0}
+    uv1: {x: 0, y: 0, z: 0}
+    flipped: 0
+    gradientUv:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    advance: 0
+    channel: 0
+  - p0: {x: 0, y: 0, z: 0}
+    p1: {x: 0, y: 0, z: 0}
+    uv0: {x: 0, y: 0, z: 0}
+    uv1: {x: 0, y: 0, z: 0}
+    flipped: 0
+    gradientUv:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    advance: 0
+    channel: 0
+  - p0: {x: 0, y: 0, z: 0}
+    p1: {x: 0, y: 0, z: 0}
+    uv0: {x: 0, y: 0, z: 0}
+    uv1: {x: 0, y: 0, z: 0}
+    flipped: 0
+    gradientUv:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    advance: 0
+    channel: 0
+  - p0: {x: 0, y: 0, z: 0}
+    p1: {x: 0, y: 0, z: 0}
+    uv0: {x: 0, y: 0, z: 0}
+    uv1: {x: 0, y: 0, z: 0}
+    flipped: 0
+    gradientUv:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    advance: 0
+    channel: 0
+  - p0: {x: 0, y: 0, z: 0}
+    p1: {x: 0, y: 0, z: 0}
+    uv0: {x: 0, y: 0, z: 0}
+    uv1: {x: 0, y: 0, z: 0}
+    flipped: 0
+    gradientUv:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    advance: 0
+    channel: 0
+  - p0: {x: 0, y: 0, z: 0}
+    p1: {x: 0, y: 0, z: 0}
+    uv0: {x: 0, y: 0, z: 0}
+    uv1: {x: 0, y: 0, z: 0}
+    flipped: 0
+    gradientUv:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    advance: 0
+    channel: 0
+  - p0: {x: 0, y: 0, z: 0}
+    p1: {x: 0, y: 0, z: 0}
+    uv0: {x: 0, y: 0, z: 0}
+    uv1: {x: 0, y: 0, z: 0}
+    flipped: 0
+    gradientUv:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    advance: 0
+    channel: 0
+  - p0: {x: 0, y: 0, z: 0}
+    p1: {x: 0, y: 0, z: 0}
+    uv0: {x: 0, y: 0, z: 0}
+    uv1: {x: 0, y: 0, z: 0}
+    flipped: 0
+    gradientUv:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    advance: 0
+    channel: 0
+  - p0: {x: 0, y: 0, z: 0}
+    p1: {x: 0, y: 0, z: 0}
+    uv0: {x: 0, y: 0, z: 0}
+    uv1: {x: 0, y: 0, z: 0}
+    flipped: 0
+    gradientUv:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    advance: 0
+    channel: 0
+  - p0: {x: 0, y: 0, z: 0}
+    p1: {x: 0, y: 0, z: 0}
+    uv0: {x: 0, y: 0, z: 0}
+    uv1: {x: 0, y: 0, z: 0}
+    flipped: 0
+    gradientUv:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    advance: 0
+    channel: 0
+  - p0: {x: 0, y: 0, z: 0}
+    p1: {x: 0, y: 0, z: 0}
+    uv0: {x: 0, y: 0, z: 0}
+    uv1: {x: 0, y: 0, z: 0}
+    flipped: 0
+    gradientUv:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    advance: 0
+    channel: 0
+  - p0: {x: 0, y: 0, z: 0}
+    p1: {x: 0, y: 0, z: 0}
+    uv0: {x: 0, y: 0, z: 0}
+    uv1: {x: 0, y: 0, z: 0}
+    flipped: 0
+    gradientUv:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    advance: 0
+    channel: 0
+  - p0: {x: 0, y: 0, z: 0}
+    p1: {x: 0, y: 0, z: 0}
+    uv0: {x: 0, y: 0, z: 0}
+    uv1: {x: 0, y: 0, z: 0}
+    flipped: 0
+    gradientUv:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    advance: 0
+    channel: 0
+  - p0: {x: 0, y: 0, z: 0}
+    p1: {x: 0, y: 0, z: 0}
+    uv0: {x: 0, y: 0, z: 0}
+    uv1: {x: 0, y: 0, z: 0}
+    flipped: 0
+    gradientUv:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    advance: 0
+    channel: 0
+  - p0: {x: 0, y: 0, z: 0}
+    p1: {x: 0, y: 0, z: 0}
+    uv0: {x: 0, y: 0, z: 0}
+    uv1: {x: 0, y: 0, z: 0}
+    flipped: 0
+    gradientUv:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    advance: 0
+    channel: 0
+  - p0: {x: 0, y: 0, z: 0}
+    p1: {x: 0, y: 0, z: 0}
+    uv0: {x: 0, y: 0, z: 0}
+    uv1: {x: 0, y: 0, z: 0}
+    flipped: 0
+    gradientUv:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    advance: 0
+    channel: 0
+  - p0: {x: 0, y: 0, z: 0}
+    p1: {x: 0, y: 0, z: 0}
+    uv0: {x: 0, y: 0, z: 0}
+    uv1: {x: 0, y: 0, z: 0}
+    flipped: 0
+    gradientUv:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    advance: 0
+    channel: 0
+  - p0: {x: 0, y: 0, z: 0}
+    p1: {x: 0, y: 0, z: 0}
+    uv0: {x: 0, y: 0, z: 0}
+    uv1: {x: 0, y: 0, z: 0}
+    flipped: 0
+    gradientUv:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    advance: 0
+    channel: 0
+  - p0: {x: 0, y: 0, z: 0}
+    p1: {x: 0, y: 0, z: 0}
+    uv0: {x: 0, y: 0, z: 0}
+    uv1: {x: 0, y: 0, z: 0}
+    flipped: 0
+    gradientUv:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    advance: 0
+    channel: 0
+  - p0: {x: 0, y: 0, z: 0}
+    p1: {x: 0, y: 0, z: 0}
+    uv0: {x: 0, y: 0, z: 0}
+    uv1: {x: 0, y: 0, z: 0}
+    flipped: 0
+    gradientUv:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    advance: 0
+    channel: 0
+  - p0: {x: 0, y: 0, z: 0}
+    p1: {x: 0, y: 0, z: 0}
+    uv0: {x: 0, y: 0, z: 0}
+    uv1: {x: 0, y: 0, z: 0}
+    flipped: 0
+    gradientUv:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    advance: 0
+    channel: 0
+  - p0: {x: 0, y: 0, z: 0}
+    p1: {x: 0, y: 0, z: 0}
+    uv0: {x: 0, y: 0, z: 0}
+    uv1: {x: 0, y: 0, z: 0}
+    flipped: 0
+    gradientUv:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    advance: 0
+    channel: 0
+  - p0: {x: 0, y: 0, z: 0}
+    p1: {x: 0, y: 0, z: 0}
+    uv0: {x: 0, y: 0, z: 0}
+    uv1: {x: 0, y: 0, z: 0}
+    flipped: 0
+    gradientUv:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    advance: 0
+    channel: 0
+  - p0: {x: 0, y: 0, z: 0}
+    p1: {x: 0, y: 0, z: 0}
+    uv0: {x: 0, y: 0, z: 0}
+    uv1: {x: 0, y: 0, z: 0}
+    flipped: 0
+    gradientUv:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    advance: 0
+    channel: 0
+  - p0: {x: 0, y: 0, z: 0}
+    p1: {x: 0, y: 0, z: 0}
+    uv0: {x: 0, y: 0, z: 0}
+    uv1: {x: 0, y: 0, z: 0}
+    flipped: 0
+    gradientUv:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    advance: 0
+    channel: 0
+  - p0: {x: 0, y: 0, z: 0}
+    p1: {x: 0, y: 0, z: 0}
+    uv0: {x: 0, y: 0, z: 0}
+    uv1: {x: 0, y: 0, z: 0}
+    flipped: 0
+    gradientUv:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    advance: 0
+    channel: 0
+  - p0: {x: 0, y: 0, z: 0}
+    p1: {x: 0, y: 0, z: 0}
+    uv0: {x: 0, y: 0, z: 0}
+    uv1: {x: 0, y: 0, z: 0}
+    flipped: 0
+    gradientUv:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    advance: 0
+    channel: 0
+  - p0: {x: 0, y: 0, z: 0}
+    p1: {x: 0, y: 0, z: 0}
+    uv0: {x: 0, y: 0, z: 0}
+    uv1: {x: 0, y: 0, z: 0}
+    flipped: 0
+    gradientUv:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    advance: 0
+    channel: 0
+  - p0: {x: 0, y: 0, z: 0}
+    p1: {x: 0, y: 0, z: 0}
+    uv0: {x: 0, y: 0, z: 0}
+    uv1: {x: 0, y: 0, z: 0}
+    flipped: 0
+    gradientUv:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    advance: 0
+    channel: 0
+  - p0: {x: 0, y: 0, z: 0}
+    p1: {x: 0, y: 0, z: 0}
+    uv0: {x: 0, y: 0, z: 0}
+    uv1: {x: 0, y: 0, z: 0}
+    flipped: 0
+    gradientUv:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    advance: 0
+    channel: 0
+  - p0: {x: 0, y: 0, z: 0}
+    p1: {x: 0, y: 0, z: 0}
+    uv0: {x: 0, y: 0, z: 0}
+    uv1: {x: 0, y: 0, z: 0}
+    flipped: 0
+    gradientUv:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    advance: 0
+    channel: 0
+  - p0: {x: 0, y: 0, z: 0}
+    p1: {x: 0, y: 0, z: 0}
+    uv0: {x: 0, y: 0, z: 0}
+    uv1: {x: 0, y: 0, z: 0}
+    flipped: 0
+    gradientUv:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    advance: 0
+    channel: 0
+  - p0: {x: -0.010009756, y: 0.780761, z: 0}
+    p1: {x: 0.18017562, y: 0.15014635, z: 0}
+    uv0: {x: 0.546875, y: 0.62109375, z: 0}
+    uv1: {x: 0.5839844, y: 0.49804688, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: 0.17016585
+    channel: 0
+  - p0: {x: -0.020019513, y: 0.780761, z: 0}
+    p1: {x: 0.29028293, y: 0.4604488, z: 0}
+    uv0: {x: 0.62890625, y: 0.5, z: 0}
+    uv1: {x: 0.6894531, y: 0.4375, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: 0.27026343
+    channel: 0
+  - p0: {x: 0, y: 0, z: 0}
+    p1: {x: 0, y: 0, z: 0}
+    uv0: {x: 0, y: 0, z: 0}
+    uv1: {x: 0, y: 0, z: 0}
+    flipped: 0
+    gradientUv:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    advance: 0
+    channel: 0
+  - p0: {x: 0, y: 0, z: 0}
+    p1: {x: 0, y: 0, z: 0}
+    uv0: {x: 0, y: 0, z: 0}
+    uv1: {x: 0, y: 0, z: 0}
+    flipped: 0
+    gradientUv:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    advance: 0
+    channel: 0
+  - p0: {x: 0, y: 0, z: 0}
+    p1: {x: 0, y: 0, z: 0}
+    uv0: {x: 0, y: 0, z: 0}
+    uv1: {x: 0, y: 0, z: 0}
+    flipped: 0
+    gradientUv:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    advance: 0
+    channel: 0
+  - p0: {x: 0, y: 0, z: 0}
+    p1: {x: 0, y: 0, z: 0}
+    uv0: {x: 0, y: 0, z: 0}
+    uv1: {x: 0, y: 0, z: 0}
+    flipped: 0
+    gradientUv:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    advance: 0
+    channel: 0
+  - p0: {x: -0.020019513, y: 0.780761, z: 0}
+    p1: {x: 0.17016585, y: 0.4604488, z: 0}
+    uv0: {x: 0.69140625, y: 0.51953125, z: 0}
+    uv1: {x: 0.7285156, y: 0.45703125, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: 0.15014635
+    channel: 0
+  - p0: {x: -0.010009756, y: 0.79077077, z: 0}
+    p1: {x: 0.21020488, y: 0.010009777, z: 0}
+    uv0: {x: 0.046875, y: 1, z: 0}
+    uv1: {x: 0.08984375, y: 0.84765625, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: 0.19018537
+    channel: 0
+  - p0: {x: -0.020019513, y: 0.79077077, z: 0}
+    p1: {x: 0.21020488, y: 0.010009777, z: 0}
+    uv0: {x: 0, y: 1, z: 0}
+    uv1: {x: 0.044921875, y: 0.84765625, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: 0.19018537
+    channel: 0
+  - p0: {x: 0, y: 0, z: 0}
+    p1: {x: 0, y: 0, z: 0}
+    uv0: {x: 0, y: 0, z: 0}
+    uv1: {x: 0, y: 0, z: 0}
+    flipped: 0
+    gradientUv:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    advance: 0
+    channel: 0
+  - p0: {x: 0, y: 0, z: 0}
+    p1: {x: 0, y: 0, z: 0}
+    uv0: {x: 0, y: 0, z: 0}
+    uv1: {x: 0, y: 0, z: 0}
+    flipped: 0
+    gradientUv:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    advance: 0
+    channel: 0
+  - p0: {x: -0.020019513, y: 0.35034147, z: 0}
+    p1: {x: 0.17016585, y: 0.060058534, z: 0}
+    uv0: {x: 0.73046875, y: 0.51953125, z: 0}
+    uv1: {x: 0.7675781, y: 0.46289062, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: 0.15014635
+    channel: 0
+  - p0: {x: 0, y: 0, z: 0}
+    p1: {x: 0, y: 0, z: 0}
+    uv0: {x: 0, y: 0, z: 0}
+    uv1: {x: 0, y: 0, z: 0}
+    flipped: 0
+    gradientUv:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    advance: 0
+    channel: 0
+  - p0: {x: -0.020019513, y: 0.35034147, z: 0}
+    p1: {x: 0.17016585, y: 0.15014634, z: 0}
+    uv0: {x: 0.76953125, y: 0.5214844, z: 0}
+    uv1: {x: 0.8066406, y: 0.48242188, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: 0.15014635
+    channel: 0
+  - p0: {x: 0, y: 0, z: 0}
+    p1: {x: 0, y: 0, z: 0}
+    uv0: {x: 0, y: 0, z: 0}
+    uv1: {x: 0, y: 0, z: 0}
+    flipped: 0
+    gradientUv:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    advance: 0
+    channel: 0
+  - p0: {x: -0.020019513, y: 0.79077077, z: 0}
+    p1: {x: 0.3403317, y: 0.14013661, z: 0}
+    uv0: {x: 0.73046875, y: 1, z: 0}
+    uv1: {x: 0.80078125, y: 0.8730469, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: 0.33032197
+    channel: 0
+  - p0: {x: 0.020019513, y: 0.780761, z: 0}
+    p1: {x: 0.27026343, y: 0.15014635, z: 0}
+    uv0: {x: 0.45703125, y: 0.62109375, z: 0}
+    uv1: {x: 0.5058594, y: 0.49804688, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: 0.33032197
+    channel: 0
+  - p0: {x: -0.030029269, y: 0.79077077, z: 0}
+    p1: {x: 0.3403317, y: 0.15014637, z: 0}
+    uv0: {x: 0.8027344, y: 1, z: 0}
+    uv1: {x: 0.875, y: 0.875, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: 0.33032197
+    channel: 0
+  - p0: {x: -0.020019513, y: 0.79077077, z: 0}
+    p1: {x: 0.35034147, y: 0.14013661, z: 0}
+    uv0: {x: 0.28710938, y: 1, z: 0}
+    uv1: {x: 0.359375, y: 0.8730469, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: 0.33032197
+    channel: 0
+  - p0: {x: -0.030029269, y: 0.780761, z: 0}
+    p1: {x: 0.35034147, y: 0.15014635, z: 0}
+    uv0: {x: 0, y: 0.71875, z: 0}
+    uv1: {x: 0.07421875, y: 0.5957031, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: 0.33032197
+    channel: 0
+  - p0: {x: -0.020019513, y: 0.780761, z: 0}
+    p1: {x: 0.3403317, y: 0.1401366, z: 0}
+    uv0: {x: 0, y: 0.8457031, z: 0}
+    uv1: {x: 0.0703125, y: 0.7207031, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: 0.33032197
+    channel: 0
+  - p0: {x: -0.020019513, y: 0.79077077, z: 0}
+    p1: {x: 0.35034147, y: 0.14013661, z: 0}
+    uv0: {x: 0.36132812, y: 1, z: 0}
+    uv1: {x: 0.43359375, y: 0.8730469, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: 0.33032197
+    channel: 0
+  - p0: {x: -0.020019513, y: 0.780761, z: 0}
+    p1: {x: 0.35034147, y: 0.15014635, z: 0}
+    uv0: {x: 0.15234375, y: 0.7285156, z: 0}
+    uv1: {x: 0.22460938, y: 0.60546875, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: 0.33032197
+    channel: 0
+  - p0: {x: -0.020019513, y: 0.79077077, z: 0}
+    p1: {x: 0.35034147, y: 0.14013661, z: 0}
+    uv0: {x: 0.43554688, y: 1, z: 0}
+    uv1: {x: 0.5078125, y: 0.8730469, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: 0.33032197
+    channel: 0
+  - p0: {x: -0.020019513, y: 0.79077077, z: 0}
+    p1: {x: 0.3403317, y: 0.14013661, z: 0}
+    uv0: {x: 0.6582031, y: 1, z: 0}
+    uv1: {x: 0.7285156, y: 0.8730469, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: 0.33032197
+    channel: 0
+  - p0: {x: -0.020019513, y: 0.65063417, z: 0}
+    p1: {x: 0.17016585, y: 0.15014635, z: 0}
+    uv0: {x: 0.58984375, y: 0.49609375, z: 0}
+    uv1: {x: 0.6269531, y: 0.3984375, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: 0.15014635
+    channel: 0
+  - p0: {x: 0, y: 0, z: 0}
+    p1: {x: 0, y: 0, z: 0}
+    uv0: {x: 0, y: 0, z: 0}
+    uv1: {x: 0, y: 0, z: 0}
+    flipped: 0
+    gradientUv:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    advance: 0
+    channel: 0
+  - p0: {x: 0, y: 0, z: 0}
+    p1: {x: 0, y: 0, z: 0}
+    uv0: {x: 0, y: 0, z: 0}
+    uv1: {x: 0, y: 0, z: 0}
+    flipped: 0
+    gradientUv:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    advance: 0
+    channel: 0
+  - p0: {x: 0, y: 0, z: 0}
+    p1: {x: 0, y: 0, z: 0}
+    uv0: {x: 0, y: 0, z: 0}
+    uv1: {x: 0, y: 0, z: 0}
+    flipped: 0
+    gradientUv:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    advance: 0
+    channel: 0
+  - p0: {x: 0, y: 0, z: 0}
+    p1: {x: 0, y: 0, z: 0}
+    uv0: {x: 0, y: 0, z: 0}
+    uv1: {x: 0, y: 0, z: 0}
+    flipped: 0
+    gradientUv:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    advance: 0
+    channel: 0
+  - p0: {x: -0.020019513, y: 0.780761, z: 0}
+    p1: {x: 0.33032197, y: 0.15014635, z: 0}
+    uv0: {x: 0.8046875, y: 0.74609375, z: 0}
+    uv1: {x: 0.8730469, y: 0.6230469, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: 0.3002927
+    channel: 0
+  - p0: {x: 0, y: 0, z: 0}
+    p1: {x: 0, y: 0, z: 0}
+    uv0: {x: 0, y: 0, z: 0}
+    uv1: {x: 0, y: 0, z: 0}
+    flipped: 0
+    gradientUv:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    advance: 0
+    channel: 0
+  - p0: {x: -0.050048783, y: 0.780761, z: 0}
+    p1: {x: 0.36035123, y: 0.15014635, z: 0}
+    uv0: {x: 0.5878906, y: 0.87109375, z: 0}
+    uv1: {x: 0.66796875, y: 0.7480469, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: 0.31030244
+    channel: 0
+  - p0: {x: -0.010009756, y: 0.780761, z: 0}
+    p1: {x: 0.35034147, y: 0.15014635, z: 0}
+    uv0: {x: 0.30078125, y: 0.74609375, z: 0}
+    uv1: {x: 0.37109375, y: 0.6230469, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: 0.33032197
+    channel: 0
+  - p0: {x: -0.020019513, y: 0.79077077, z: 0}
+    p1: {x: 0.35034147, y: 0.14013661, z: 0}
+    uv0: {x: 0.5097656, y: 1, z: 0}
+    uv1: {x: 0.58203125, y: 0.8730469, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: 0.3203122
+    channel: 0
+  - p0: {x: -0.010009756, y: 0.780761, z: 0}
+    p1: {x: 0.36035123, y: 0.15014635, z: 0}
+    uv0: {x: 0.2265625, y: 0.74609375, z: 0}
+    uv1: {x: 0.29882812, y: 0.6230469, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: 0.3403317
+    channel: 0
+  - p0: {x: -0.010009756, y: 0.780761, z: 0}
+    p1: {x: 0.35034147, y: 0.15014635, z: 0}
+    uv0: {x: 0.4453125, y: 0.74609375, z: 0}
+    uv1: {x: 0.515625, y: 0.6230469, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: 0.3203122
+    channel: 0
+  - p0: {x: -0.010009756, y: 0.780761, z: 0}
+    p1: {x: 0.3403317, y: 0.15014635, z: 0}
+    uv0: {x: 0.875, y: 0.7480469, z: 0}
+    uv1: {x: 0.9433594, y: 0.625, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: 0.3002927
+    channel: 0
+  - p0: {x: -0.020019513, y: 0.79077077, z: 0}
+    p1: {x: 0.3403317, y: 0.15014637, z: 0}
+    uv0: {x: 0.072265625, y: 0.8457031, z: 0}
+    uv1: {x: 0.14257812, y: 0.7207031, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: 0.33032197
+    channel: 0
+  - p0: {x: -0.010009756, y: 0.780761, z: 0}
+    p1: {x: 0.35034147, y: 0.15014635, z: 0}
+    uv0: {x: 0.58984375, y: 0.74609375, z: 0}
+    uv1: {x: 0.66015625, y: 0.6230469, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: 0.3403317
+    channel: 0
+  - p0: {x: -0.010009756, y: 0.780761, z: 0}
+    p1: {x: 0.19018537, y: 0.15014635, z: 0}
+    uv0: {x: 0.9511719, y: 1, z: 0}
+    uv1: {x: 0.9902344, y: 0.8769531, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: 0.17016585
+    channel: 0
+  - p0: {x: -0.040039025, y: 0.780761, z: 0}
+    p1: {x: 0.3002927, y: 0.1401366, z: 0}
+    uv0: {x: 0.14453125, y: 0.85546875, z: 0}
+    uv1: {x: 0.2109375, y: 0.73046875, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: 0.28027317
+    channel: 0
+  - p0: {x: -0.010009756, y: 0.780761, z: 0}
+    p1: {x: 0.40039027, y: 0.15014635, z: 0}
+    uv0: {x: 0.6699219, y: 0.87109375, z: 0}
+    uv1: {x: 0.75, y: 0.7480469, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: 0.35034147
+    channel: 0
+  - p0: {x: -0.010009756, y: 0.780761, z: 0}
+    p1: {x: 0.3403317, y: 0.15014635, z: 0}
+    uv0: {x: 0.734375, y: 0.74609375, z: 0}
+    uv1: {x: 0.8027344, y: 0.6230469, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: 0.29028293
+    channel: 0
+  - p0: {x: -0.010009756, y: 0.780761, z: 0}
+    p1: {x: 0.47045854, y: 0.15014635, z: 0}
+    uv0: {x: 0.32421875, y: 0.87109375, z: 0}
+    uv1: {x: 0.41796875, y: 0.7480469, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: 0.4604488
+    channel: 0
+  - p0: {x: -0.010009756, y: 0.780761, z: 0}
+    p1: {x: 0.37036097, y: 0.15014635, z: 0}
+    uv0: {x: 0.076171875, y: 0.71875, z: 0}
+    uv1: {x: 0.15039062, y: 0.5957031, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: 0.36035123
+    channel: 0
+  - p0: {x: -0.020019513, y: 0.79077077, z: 0}
+    p1: {x: 0.35034147, y: 0.14013661, z: 0}
+    uv0: {x: 0.5839844, y: 1, z: 0}
+    uv1: {x: 0.65625, y: 0.8730469, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: 0.33032197
+    channel: 0
+  - p0: {x: -0.010009756, y: 0.780761, z: 0}
+    p1: {x: 0.35034147, y: 0.15014635, z: 0}
+    uv0: {x: 0.37304688, y: 0.74609375, z: 0}
+    uv1: {x: 0.44335938, y: 0.6230469, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: 0.3203122
+    channel: 0
+  - p0: {x: -0.020019513, y: 0.79077077, z: 0}
+    p1: {x: 0.35034147, y: 0.060058556, z: 0}
+    uv0: {x: 0.13671875, y: 1, z: 0}
+    uv1: {x: 0.20898438, y: 0.8574219, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: 0.33032197
+    channel: 0
+  - p0: {x: -0.010009756, y: 0.780761, z: 0}
+    p1: {x: 0.35034147, y: 0.15014635, z: 0}
+    uv0: {x: 0.5175781, y: 0.74609375, z: 0}
+    uv1: {x: 0.5878906, y: 0.6230469, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: 0.33032197
+    channel: 0
+  - p0: {x: -0.030029269, y: 0.79077077, z: 0}
+    p1: {x: 0.35034147, y: 0.14013661, z: 0}
+    uv0: {x: 0.2109375, y: 1, z: 0}
+    uv1: {x: 0.28515625, y: 0.8730469, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: 0.3203122
+    channel: 0
+  - p0: {x: -0.050048783, y: 0.780761, z: 0}
+    p1: {x: 0.3403317, y: 0.15014635, z: 0}
+    uv0: {x: 0.8300781, y: 0.8730469, z: 0}
+    uv1: {x: 0.90625, y: 0.75, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: 0.29028293
+    channel: 0
+  - p0: {x: -0.010009756, y: 0.780761, z: 0}
+    p1: {x: 0.36035123, y: 0.1401366, z: 0}
+    uv0: {x: 0.8769531, y: 1, z: 0}
+    uv1: {x: 0.94921875, y: 0.875, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: 0.35034147
+    channel: 0
+  - p0: {x: -0.050048783, y: 0.780761, z: 0}
+    p1: {x: 0.3403317, y: 0.15014635, z: 0}
+    uv0: {x: 0.7519531, y: 0.87109375, z: 0}
+    uv1: {x: 0.828125, y: 0.7480469, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: 0.3002927
+    channel: 0
+  - p0: {x: -0.040039025, y: 0.780761, z: 0}
+    p1: {x: 0.52050734, y: 0.15014635, z: 0}
+    uv0: {x: 0.21289062, y: 0.87109375, z: 0}
+    uv1: {x: 0.32226562, y: 0.7480469, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: 0.4804683
+    channel: 0
+  - p0: {x: -0.050048783, y: 0.780761, z: 0}
+    p1: {x: 0.37036097, y: 0.15014635, z: 0}
+    uv0: {x: 0.50390625, y: 0.87109375, z: 0}
+    uv1: {x: 0.5859375, y: 0.7480469, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: 0.31030244
+    channel: 0
+  - p0: {x: -0.050048783, y: 0.780761, z: 0}
+    p1: {x: 0.37036097, y: 0.15014635, z: 0}
+    uv0: {x: 0.41992188, y: 0.87109375, z: 0}
+    uv1: {x: 0.5019531, y: 0.7480469, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: 0.3203122
+    channel: 0
+  - p0: {x: -0.040039025, y: 0.780761, z: 0}
+    p1: {x: 0.35034147, y: 0.15014635, z: 0}
+    uv0: {x: 0.9082031, y: 0.8730469, z: 0}
+    uv1: {x: 0.984375, y: 0.75, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: 0.3203122
+    channel: 0
+  - p0: {x: 0, y: 0, z: 0}
+    p1: {x: 0, y: 0, z: 0}
+    uv0: {x: 0, y: 0, z: 0}
+    uv1: {x: 0, y: 0, z: 0}
+    flipped: 0
+    gradientUv:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    advance: 0
+    channel: 0
+  - p0: {x: 0, y: 0, z: 0}
+    p1: {x: 0, y: 0, z: 0}
+    uv0: {x: 0, y: 0, z: 0}
+    uv1: {x: 0, y: 0, z: 0}
+    flipped: 0
+    gradientUv:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    advance: 0
+    channel: 0
+  - p0: {x: 0, y: 0, z: 0}
+    p1: {x: 0, y: 0, z: 0}
+    uv0: {x: 0, y: 0, z: 0}
+    uv1: {x: 0, y: 0, z: 0}
+    flipped: 0
+    gradientUv:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    advance: 0
+    channel: 0
+  - p0: {x: 0, y: 0, z: 0}
+    p1: {x: 0, y: 0, z: 0}
+    uv0: {x: 0, y: 0, z: 0}
+    uv1: {x: 0, y: 0, z: 0}
+    flipped: 0
+    gradientUv:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    advance: 0
+    channel: 0
+  - p0: {x: 0, y: 0, z: 0}
+    p1: {x: 0, y: 0, z: 0}
+    uv0: {x: 0, y: 0, z: 0}
+    uv1: {x: 0, y: 0, z: 0}
+    flipped: 0
+    gradientUv:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    advance: 0
+    channel: 0
+  - p0: {x: 0, y: 0, z: 0}
+    p1: {x: 0, y: 0, z: 0}
+    uv0: {x: 0, y: 0, z: 0}
+    uv1: {x: 0, y: 0, z: 0}
+    flipped: 0
+    gradientUv:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    advance: 0
+    channel: 0
+  - p0: {x: -0.020019513, y: 0.65063417, z: 0}
+    p1: {x: 0.29028293, y: 0.15014635, z: 0}
+    uv0: {x: 0.52734375, y: 0.49609375, z: 0}
+    uv1: {x: 0.5878906, y: 0.3984375, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: 0.28027317
+    channel: 0
+  - p0: {x: -0.020019513, y: 0.780761, z: 0}
+    p1: {x: 0.3002927, y: 0.15014635, z: 0}
+    uv0: {x: 0.13476562, y: 0.59375, z: 0}
+    uv1: {x: 0.19726562, y: 0.47070312, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: 0.28027317
+    channel: 0
+  - p0: {x: -0.020019513, y: 0.65063417, z: 0}
+    p1: {x: 0.31030244, y: 0.15014635, z: 0}
+    uv0: {x: 0.20117188, y: 0.47851562, z: 0}
+    uv1: {x: 0.265625, y: 0.38085938, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: 0.28027317
+    channel: 0
+  - p0: {x: -0.020019513, y: 0.780761, z: 0}
+    p1: {x: 0.3002927, y: 0.15014635, z: 0}
+    uv0: {x: 0.19921875, y: 0.6035156, z: 0}
+    uv1: {x: 0.26171875, y: 0.48046875, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: 0.28027317
+    channel: 0
+  - p0: {x: -0.020019513, y: 0.65063417, z: 0}
+    p1: {x: 0.3002927, y: 0.15014635, z: 0}
+    uv0: {x: 0.33398438, y: 0.49609375, z: 0}
+    uv1: {x: 0.39648438, y: 0.3984375, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: 0.28027317
+    channel: 0
+  - p0: {x: -0.050048783, y: 0.780761, z: 0}
+    p1: {x: 0.21020488, y: 0.15014635, z: 0}
+    uv0: {x: 0.9453125, y: 0.7480469, z: 0}
+    uv1: {x: 0.99609375, y: 0.625, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: 0.1601561
+    channel: 0
+  - p0: {x: -0.020019513, y: 0.65063417, z: 0}
+    p1: {x: 0.3002927, y: 0.020019522, z: 0}
+    uv0: {x: 0.26367188, y: 0.62109375, z: 0}
+    uv1: {x: 0.32617188, y: 0.49804688, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: 0.28027317
+    channel: 0
+  - p0: {x: -0.020019513, y: 0.780761, z: 0}
+    p1: {x: 0.31030244, y: 0.15014635, z: 0}
+    uv0: {x: 0.068359375, y: 0.59375, z: 0}
+    uv1: {x: 0.1328125, y: 0.47070312, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: 0.29028293
+    channel: 0
+  - p0: {x: -0.020019513, y: 0.780761, z: 0}
+    p1: {x: 0.17016585, y: 0.15014635, z: 0}
+    uv0: {x: 0.5078125, y: 0.62109375, z: 0}
+    uv1: {x: 0.5449219, y: 0.49804688, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: 0.15014635
+    channel: 0
+  - p0: {x: -0.040039025, y: 0.780761, z: 0}
+    p1: {x: 0.18017562, y: 0.020019524, z: 0}
+    uv0: {x: 0.091796875, y: 1, z: 0}
+    uv1: {x: 0.13476562, y: 0.8515625, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: 0.15014635
+    channel: 0
+  - p0: {x: -0.020019513, y: 0.780761, z: 0}
+    p1: {x: 0.3403317, y: 0.15014635, z: 0}
+    uv0: {x: 0.6621094, y: 0.74609375, z: 0}
+    uv1: {x: 0.7324219, y: 0.6230469, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: 0.29028293
+    channel: 0
+  - p0: {x: -0.020019513, y: 0.780761, z: 0}
+    p1: {x: 0.17016585, y: 0.15014635, z: 0}
+    uv0: {x: 0.5859375, y: 0.62109375, z: 0}
+    uv1: {x: 0.6230469, y: 0.49804688, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: 0.15014635
+    channel: 0
+  - p0: {x: -0.020019513, y: 0.65063417, z: 0}
+    p1: {x: 0.44042927, y: 0.15014635, z: 0}
+    uv0: {x: 0.828125, y: 0.62109375, z: 0}
+    uv1: {x: 0.91796875, y: 0.5234375, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: 0.42040977
+    channel: 0
+  - p0: {x: -0.020019513, y: 0.65063417, z: 0}
+    p1: {x: 0.31030244, y: 0.15014635, z: 0}
+    uv0: {x: 0.068359375, y: 0.46875, z: 0}
+    uv1: {x: 0.1328125, y: 0.37109375, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: 0.29028293
+    channel: 0
+  - p0: {x: -0.020019513, y: 0.65063417, z: 0}
+    p1: {x: 0.3002927, y: 0.15014635, z: 0}
+    uv0: {x: 0.3984375, y: 0.49609375, z: 0}
+    uv1: {x: 0.4609375, y: 0.3984375, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: 0.28027317
+    channel: 0
+  - p0: {x: -0.020019513, y: 0.65063417, z: 0}
+    p1: {x: 0.3002927, y: 0.020019522, z: 0}
+    uv0: {x: 0.328125, y: 0.62109375, z: 0}
+    uv1: {x: 0.390625, y: 0.49804688, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: 0.28027317
+    channel: 0
+  - p0: {x: -0.020019513, y: 0.65063417, z: 0}
+    p1: {x: 0.3002927, y: 0.020019522, z: 0}
+    uv0: {x: 0.39257812, y: 0.62109375, z: 0}
+    uv1: {x: 0.45507812, y: 0.49804688, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: 0.28027317
+    channel: 0
+  - p0: {x: -0.020019513, y: 0.66064394, z: 0}
+    p1: {x: 0.26025367, y: 0.15014637, z: 0}
+    uv0: {x: 0.6777344, y: 0.62109375, z: 0}
+    uv1: {x: 0.7324219, y: 0.5214844, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: 0.22021464
+    channel: 0
+  - p0: {x: -0.030029269, y: 0.65063417, z: 0}
+    p1: {x: 0.29028293, y: 0.15014635, z: 0}
+    uv0: {x: 0.46289062, y: 0.49609375, z: 0}
+    uv1: {x: 0.5253906, y: 0.3984375, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: 0.2502439
+    channel: 0
+  - p0: {x: -0.050048783, y: 0.7607415, z: 0}
+    p1: {x: 0.21020488, y: 0.15014634, z: 0}
+    uv0: {x: 0.625, y: 0.62109375, z: 0}
+    uv1: {x: 0.67578125, y: 0.5019531, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: 0.17016585
+    channel: 0
+  - p0: {x: -0.020019513, y: 0.65063417, z: 0}
+    p1: {x: 0.31030244, y: 0.15014635, z: 0}
+    uv0: {x: 0.13476562, y: 0.46875, z: 0}
+    uv1: {x: 0.19921875, y: 0.37109375, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: 0.29028293
+    channel: 0
+  - p0: {x: -0.040039025, y: 0.65063417, z: 0}
+    p1: {x: 0.3002927, y: 0.15014635, z: 0}
+    uv0: {x: 0, y: 0.46875, z: 0}
+    uv1: {x: 0.06640625, y: 0.37109375, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: 0.2502439
+    channel: 0
+  - p0: {x: -0.040039025, y: 0.65063417, z: 0}
+    p1: {x: 0.43041953, y: 0.15014635, z: 0}
+    uv0: {x: 0.734375, y: 0.62109375, z: 0}
+    uv1: {x: 0.8261719, y: 0.5234375, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: 0.38037074
+    channel: 0
+  - p0: {x: -0.060058538, y: 0.65063417, z: 0}
+    p1: {x: 0.3203122, y: 0.15014635, z: 0}
+    uv0: {x: 0.9199219, y: 0.6230469, z: 0}
+    uv1: {x: 0.9941406, y: 0.5253906, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: 0.27026343
+    channel: 0
+  - p0: {x: -0.040039025, y: 0.65063417, z: 0}
+    p1: {x: 0.3002927, y: 0.020019522, z: 0}
+    uv0: {x: 0, y: 0.59375, z: 0}
+    uv1: {x: 0.06640625, y: 0.47070312, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: 0.26025367
+    channel: 0
+  - p0: {x: -0.040039025, y: 0.65063417, z: 0}
+    p1: {x: 0.29028293, y: 0.15014635, z: 0}
+    uv0: {x: 0.26757812, y: 0.49609375, z: 0}
+    uv1: {x: 0.33203125, y: 0.3984375, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: 0.2502439
+    channel: 0
+  charDictKeys: 
+  charDictValues: []
+  fontPlatforms: []
+  fontPlatformGUIDs: []
+  hasPlatformData: 0
+  managedFont: 0
+  needMaterialInstance: 0
+  isPacked: 0
+  premultipliedAlpha: 0
+  spriteCollection: {fileID: 0}
+  useDictionary: 0
+  kerning:
+  - c0: 122
+    c1: 121
+    amount: 0.020019513
+  - c0: 122
+    c1: 111
+    amount: 0.010009756
+  - c0: 122
+    c1: 101
+    amount: 0.010009756
+  - c0: 122
+    c1: 97
+    amount: 0.010009756
+  - c0: 122
+    c1: 63
+    amount: 0.010009756
+  - c0: 122
+    c1: 58
+    amount: 0.030029269
+  - c0: 122
+    c1: 46
+    amount: 0.010009756
+  - c0: 122
+    c1: 44
+    amount: 0.010009756
+  - c0: 122
+    c1: 41
+    amount: 0.020019513
+  - c0: 121
+    c1: 115
+    amount: 0.010009756
+  - c0: 121
+    c1: 108
+    amount: 0.010009756
+  - c0: 33
+    c1: 33
+    amount: -0.010009756
+  - c0: 33
+    c1: 41
+    amount: 0.030029269
+  - c0: 121
+    c1: 106
+    amount: 0.010009756
+  - c0: 121
+    c1: 63
+    amount: 0.010009756
+  - c0: 33
+    c1: 58
+    amount: 0.030029269
+  - c0: 121
+    c1: 58
+    amount: 0.030029269
+  - c0: 121
+    c1: 46
+    amount: -0.010009756
+  - c0: 121
+    c1: 44
+    amount: -0.010009756
+  - c0: 121
+    c1: 41
+    amount: 0.020019513
+  - c0: 121
+    c1: 39
+    amount: 0.010009756
+  - c0: 120
+    c1: 121
+    amount: 0.020019513
+  - c0: 120
+    c1: 63
+    amount: 0.010009756
+  - c0: 120
+    c1: 58
+    amount: 0.030029269
+  - c0: 34
+    c1: 41
+    amount: 0.030029269
+  - c0: 34
+    c1: 44
+    amount: -0.020019513
+  - c0: 34
+    c1: 46
+    amount: -0.020019513
+  - c0: 34
+    c1: 58
+    amount: 0.040039025
+  - c0: 120
+    c1: 46
+    amount: 0.010009756
+  - c0: 120
+    c1: 44
+    amount: 0.010009756
+  - c0: 120
+    c1: 41
+    amount: 0.020019513
+  - c0: 120
+    c1: 33
+    amount: 0.010009756
+  - c0: 119
+    c1: 122
+    amount: 0.010009756
+  - c0: 119
+    c1: 121
+    amount: 0.020019513
+  - c0: 119
+    c1: 117
+    amount: 0.010009756
+  - c0: 119
+    c1: 116
+    amount: 0.020019513
+  - c0: 119
+    c1: 115
+    amount: 0.010009756
+  - c0: 119
+    c1: 114
+    amount: 0.010009756
+  - c0: 119
+    c1: 112
+    amount: 0.010009756
+  - c0: 119
+    c1: 108
+    amount: 0.010009756
+  - c0: 119
+    c1: 105
+    amount: 0.010009756
+  - c0: 119
+    c1: 102
+    amount: 0.020019513
+  - c0: 119
+    c1: 63
+    amount: 0.010009756
+  - c0: 119
+    c1: 58
+    amount: 0.030029269
+  - c0: 119
+    c1: 46
+    amount: -0.010009756
+  - c0: 119
+    c1: 44
+    amount: -0.010009756
+  - c0: 119
+    c1: 41
+    amount: 0.030029269
+  - c0: 119
+    c1: 39
+    amount: 0.010009756
+  - c0: 118
+    c1: 121
+    amount: 0.020019513
+  - c0: 118
+    c1: 117
+    amount: 0.010009756
+  - c0: 118
+    c1: 115
+    amount: 0.010009756
+  - c0: 118
+    c1: 114
+    amount: 0.010009756
+  - c0: 118
+    c1: 108
+    amount: 0.010009756
+  - c0: 118
+    c1: 105
+    amount: 0.010009756
+  - c0: 118
+    c1: 63
+    amount: 0.010009756
+  - c0: 118
+    c1: 58
+    amount: 0.030029269
+  - c0: 118
+    c1: 46
+    amount: -0.010009756
+  - c0: 118
+    c1: 44
+    amount: -0.010009756
+  - c0: 118
+    c1: 41
+    amount: 0.030029269
+  - c0: 117
+    c1: 122
+    amount: 0.010009756
+  - c0: 117
+    c1: 121
+    amount: 0.010009756
+  - c0: 117
+    c1: 120
+    amount: 0.010009756
+  - c0: 117
+    c1: 119
+    amount: 0.010009756
+  - c0: 117
+    c1: 118
+    amount: 0.010009756
+  - c0: 117
+    c1: 58
+    amount: 0.030029269
+  - c0: 117
+    c1: 41
+    amount: 0.030029269
+  - c0: 116
+    c1: 122
+    amount: 0.020019513
+  - c0: 116
+    c1: 121
+    amount: 0.020019513
+  - c0: 116
+    c1: 119
+    amount: 0.020019513
+  - c0: 116
+    c1: 118
+    amount: 0.020019513
+  - c0: 116
+    c1: 116
+    amount: 0.020019513
+  - c0: 116
+    c1: 115
+    amount: 0.010009756
+  - c0: 116
+    c1: 113
+    amount: 0.010009756
+  - c0: 116
+    c1: 103
+    amount: 0.010009756
+  - c0: 116
+    c1: 100
+    amount: 0.010009756
+  - c0: 116
+    c1: 97
+    amount: 0.010009756
+  - c0: 116
+    c1: 83
+    amount: 0.010009756
+  - c0: 116
+    c1: 63
+    amount: 0.010009756
+  - c0: 116
+    c1: 58
+    amount: 0.030029269
+  - c0: 39
+    c1: 41
+    amount: 0.030029269
+  - c0: 39
+    c1: 44
+    amount: -0.020019513
+  - c0: 39
+    c1: 46
+    amount: -0.020019513
+  - c0: 39
+    c1: 58
+    amount: 0.040039025
+  - c0: 116
+    c1: 46
+    amount: 0.010009756
+  - c0: 116
+    c1: 44
+    amount: 0.010009756
+  - c0: 39
+    c1: 65
+    amount: -0.020019513
+  - c0: 39
+    c1: 84
+    amount: 0.020019513
+  - c0: 39
+    c1: 86
+    amount: 0.010009756
+  - c0: 39
+    c1: 87
+    amount: 0.010009756
+  - c0: 39
+    c1: 88
+    amount: 0.010009756
+  - c0: 39
+    c1: 89
+    amount: 0.020019513
+  - c0: 116
+    c1: 41
+    amount: 0.030029269
+  - c0: 115
+    c1: 122
+    amount: 0.010009756
+  - c0: 115
+    c1: 121
+    amount: 0.010009756
+  - c0: 115
+    c1: 119
+    amount: 0.010009756
+  - c0: 115
+    c1: 118
+    amount: 0.010009756
+  - c0: 115
+    c1: 116
+    amount: 0.010009756
+  - c0: 40
+    c1: 33
+    amount: 0.030029269
+  - c0: 40
+    c1: 34
+    amount: 0.030029269
+  - c0: 115
+    c1: 115
+    amount: 0.010009756
+  - c0: 115
+    c1: 103
+    amount: 0.010009756
+  - c0: 115
+    c1: 102
+    amount: 0.010009756
+  - c0: 115
+    c1: 97
+    amount: 0.010009756
+  - c0: 40
+    c1: 39
+    amount: 0.030029269
+  - c0: 40
+    c1: 40
+    amount: 0.030029269
+  - c0: 40
+    c1: 41
+    amount: 0.020019513
+  - c0: 115
+    c1: 58
+    amount: 0.030029269
+  - c0: 115
+    c1: 46
+    amount: 0.010009756
+  - c0: 40
+    c1: 44
+    amount: 0.030029269
+  - c0: 40
+    c1: 46
+    amount: 0.030029269
+  - c0: 115
+    c1: 44
+    amount: 0.010009756
+  - c0: 40
+    c1: 48
+    amount: 0.030029269
+  - c0: 40
+    c1: 49
+    amount: -0.010009756
+  - c0: 40
+    c1: 50
+    amount: 0.020019513
+  - c0: 40
+    c1: 51
+    amount: 0.020019513
+  - c0: 40
+    c1: 52
+    amount: 0.010009756
+  - c0: 40
+    c1: 53
+    amount: 0.030029269
+  - c0: 40
+    c1: 54
+    amount: 0.030029269
+  - c0: 115
+    c1: 41
+    amount: 0.030029269
+  - c0: 40
+    c1: 56
+    amount: 0.030029269
+  - c0: 40
+    c1: 57
+    amount: 0.030029269
+  - c0: 40
+    c1: 58
+    amount: 0.020019513
+  - c0: 114
+    c1: 122
+    amount: 0.010009756
+  - c0: 114
+    c1: 121
+    amount: 0.020019513
+  - c0: 114
+    c1: 120
+    amount: 0.020019513
+  - c0: 114
+    c1: 119
+    amount: 0.020019513
+  - c0: 40
+    c1: 63
+    amount: 0.020019513
+  - c0: 114
+    c1: 118
+    amount: 0.020019513
+  - c0: 40
+    c1: 65
+    amount: 0.020019513
+  - c0: 40
+    c1: 66
+    amount: 0.030029269
+  - c0: 40
+    c1: 67
+    amount: 0.030029269
+  - c0: 40
+    c1: 68
+    amount: 0.030029269
+  - c0: 40
+    c1: 69
+    amount: 0.030029269
+  - c0: 40
+    c1: 70
+    amount: 0.030029269
+  - c0: 40
+    c1: 71
+    amount: 0.030029269
+  - c0: 40
+    c1: 72
+    amount: 0.030029269
+  - c0: 40
+    c1: 73
+    amount: 0.030029269
+  - c0: 40
+    c1: 74
+    amount: 0.010009756
+  - c0: 40
+    c1: 75
+    amount: 0.030029269
+  - c0: 40
+    c1: 76
+    amount: 0.030029269
+  - c0: 40
+    c1: 77
+    amount: 0.030029269
+  - c0: 40
+    c1: 78
+    amount: 0.030029269
+  - c0: 40
+    c1: 79
+    amount: 0.030029269
+  - c0: 40
+    c1: 80
+    amount: 0.030029269
+  - c0: 40
+    c1: 81
+    amount: 0.030029269
+  - c0: 40
+    c1: 82
+    amount: 0.030029269
+  - c0: 40
+    c1: 83
+    amount: 0.030029269
+  - c0: 40
+    c1: 84
+    amount: 0.010009756
+  - c0: 40
+    c1: 85
+    amount: 0.030029269
+  - c0: 40
+    c1: 86
+    amount: 0.030029269
+  - c0: 40
+    c1: 87
+    amount: 0.030029269
+  - c0: 40
+    c1: 88
+    amount: 0.020019513
+  - c0: 40
+    c1: 89
+    amount: 0.020019513
+  - c0: 40
+    c1: 90
+    amount: 0.020019513
+  - c0: 114
+    c1: 117
+    amount: 0.010009756
+  - c0: 114
+    c1: 116
+    amount: 0.020019513
+  - c0: 114
+    c1: 115
+    amount: 0.010009756
+  - c0: 40
+    c1: 97
+    amount: 0.020019513
+  - c0: 40
+    c1: 98
+    amount: 0.030029269
+  - c0: 40
+    c1: 99
+    amount: 0.030029269
+  - c0: 40
+    c1: 100
+    amount: 0.030029269
+  - c0: 40
+    c1: 101
+    amount: 0.030029269
+  - c0: 40
+    c1: 102
+    amount: 0.030029269
+  - c0: 40
+    c1: 103
+    amount: 0.030029269
+  - c0: 40
+    c1: 104
+    amount: 0.030029269
+  - c0: 40
+    c1: 105
+    amount: 0.030029269
+  - c0: 40
+    c1: 106
+    amount: 0.030029269
+  - c0: 40
+    c1: 107
+    amount: 0.030029269
+  - c0: 40
+    c1: 108
+    amount: 0.030029269
+  - c0: 40
+    c1: 109
+    amount: 0.030029269
+  - c0: 40
+    c1: 110
+    amount: 0.030029269
+  - c0: 40
+    c1: 111
+    amount: 0.030029269
+  - c0: 40
+    c1: 112
+    amount: 0.030029269
+  - c0: 40
+    c1: 113
+    amount: 0.030029269
+  - c0: 40
+    c1: 114
+    amount: 0.030029269
+  - c0: 40
+    c1: 115
+    amount: 0.030029269
+  - c0: 40
+    c1: 116
+    amount: 0.030029269
+  - c0: 40
+    c1: 117
+    amount: 0.030029269
+  - c0: 40
+    c1: 118
+    amount: 0.020019513
+  - c0: 40
+    c1: 119
+    amount: 0.020019513
+  - c0: 40
+    c1: 120
+    amount: 0.020019513
+  - c0: 40
+    c1: 121
+    amount: 0.020019513
+  - c0: 40
+    c1: 122
+    amount: 0.020019513
+  - c0: 114
+    c1: 114
+    amount: 0.010009756
+  - c0: 114
+    c1: 113
+    amount: 0.010009756
+  - c0: 114
+    c1: 112
+    amount: 0.010009756
+  - c0: 114
+    c1: 111
+    amount: 0.010009756
+  - c0: 114
+    c1: 110
+    amount: 0.010009756
+  - c0: 114
+    c1: 109
+    amount: 0.010009756
+  - c0: 114
+    c1: 108
+    amount: 0.010009756
+  - c0: 114
+    c1: 107
+    amount: 0.010009756
+  - c0: 114
+    c1: 105
+    amount: 0.010009756
+  - c0: 114
+    c1: 104
+    amount: 0.010009756
+  - c0: 114
+    c1: 103
+    amount: 0.010009756
+  - c0: 114
+    c1: 102
+    amount: 0.020019513
+  - c0: 114
+    c1: 101
+    amount: 0.010009756
+  - c0: 114
+    c1: 100
+    amount: 0.010009756
+  - c0: 114
+    c1: 99
+    amount: 0.010009756
+  - c0: 114
+    c1: 98
+    amount: 0.010009756
+  - c0: 114
+    c1: 97
+    amount: 0.010009756
+  - c0: 114
+    c1: 63
+    amount: 0.010009756
+  - c0: 114
+    c1: 58
+    amount: 0.020019513
+  - c0: 114
+    c1: 46
+    amount: -0.030029269
+  - c0: 114
+    c1: 44
+    amount: -0.030029269
+  - c0: 114
+    c1: 41
+    amount: 0.010009756
+  - c0: 114
+    c1: 39
+    amount: 0.010009756
+  - c0: 113
+    c1: 58
+    amount: 0.030029269
+  - c0: 113
+    c1: 41
+    amount: 0.030029269
+  - c0: 112
+    c1: 122
+    amount: 0.010009756
+  - c0: 112
+    c1: 116
+    amount: 0.010009756
+  - c0: 112
+    c1: 58
+    amount: 0.030029269
+  - c0: 112
+    c1: 41
+    amount: 0.030029269
+  - c0: 111
+    c1: 122
+    amount: 0.010009756
+  - c0: 111
+    c1: 116
+    amount: 0.010009756
+  - c0: 111
+    c1: 84
+    amount: -0.030029269
+  - c0: 111
+    c1: 58
+    amount: 0.030029269
+  - c0: 111
+    c1: 41
+    amount: 0.030029269
+  - c0: 110
+    c1: 122
+    amount: 0.010009756
+  - c0: 110
+    c1: 84
+    amount: -0.030029269
+  - c0: 110
+    c1: 58
+    amount: 0.030029269
+  - c0: 110
+    c1: 41
+    amount: 0.030029269
+  - c0: 109
+    c1: 122
+    amount: 0.010009756
+  - c0: 109
+    c1: 58
+    amount: 0.030029269
+  - c0: 109
+    c1: 41
+    amount: 0.030029269
+  - c0: 108
+    c1: 122
+    amount: 0.010009756
+  - c0: 108
+    c1: 121
+    amount: 0.010009756
+  - c0: 108
+    c1: 119
+    amount: 0.010009756
+  - c0: 108
+    c1: 118
+    amount: 0.010009756
+  - c0: 108
+    c1: 58
+    amount: 0.030029269
+  - c0: 108
+    c1: 41
+    amount: 0.030029269
+  - c0: 107
+    c1: 122
+    amount: 0.020019513
+  - c0: 107
+    c1: 121
+    amount: 0.020019513
+  - c0: 107
+    c1: 120
+    amount: 0.030029269
+  - c0: 107
+    c1: 119
+    amount: 0.020019513
+  - c0: 107
+    c1: 118
+    amount: 0.020019513
+  - c0: 107
+    c1: 117
+    amount: 0.010009756
+  - c0: 107
+    c1: 116
+    amount: 0.020019513
+  - c0: 107
+    c1: 115
+    amount: 0.010009756
+  - c0: 107
+    c1: 114
+    amount: 0.010009756
+  - c0: 107
+    c1: 112
+    amount: 0.010009756
+  - c0: 107
+    c1: 110
+    amount: 0.010009756
+  - c0: 107
+    c1: 109
+    amount: 0.010009756
+  - c0: 107
+    c1: 108
+    amount: 0.010009756
+  - c0: 107
+    c1: 107
+    amount: 0.010009756
+  - c0: 107
+    c1: 106
+    amount: 0.010009756
+  - c0: 107
+    c1: 105
+    amount: 0.010009756
+  - c0: 107
+    c1: 104
+    amount: 0.010009756
+  - c0: 107
+    c1: 102
+    amount: 0.020019513
+  - c0: 107
+    c1: 98
+    amount: 0.010009756
+  - c0: 107
+    c1: 63
+    amount: 0.010009756
+  - c0: 107
+    c1: 58
+    amount: 0.030029269
+  - c0: 107
+    c1: 46
+    amount: 0.010009756
+  - c0: 107
+    c1: 44
+    amount: 0.010009756
+  - c0: 107
+    c1: 41
+    amount: 0.020019513
+  - c0: 107
+    c1: 33
+    amount: 0.010009756
+  - c0: 106
+    c1: 121
+    amount: 0.010009756
+  - c0: 106
+    c1: 58
+    amount: 0.030029269
+  - c0: 106
+    c1: 41
+    amount: 0.030029269
+  - c0: 105
+    c1: 122
+    amount: 0.010009756
+  - c0: 105
+    c1: 119
+    amount: 0.010009756
+  - c0: 105
+    c1: 118
+    amount: 0.010009756
+  - c0: 105
+    c1: 84
+    amount: 0.010009756
+  - c0: 105
+    c1: 58
+    amount: 0.030029269
+  - c0: 105
+    c1: 41
+    amount: 0.030029269
+  - c0: 104
+    c1: 58
+    amount: 0.030029269
+  - c0: 104
+    c1: 41
+    amount: 0.030029269
+  - c0: 103
+    c1: 122
+    amount: 0.010009756
+  - c0: 103
+    c1: 121
+    amount: 0.010009756
+  - c0: 103
+    c1: 119
+    amount: 0.010009756
+  - c0: 103
+    c1: 118
+    amount: 0.010009756
+  - c0: 103
+    c1: 116
+    amount: 0.010009756
+  - c0: 103
+    c1: 102
+    amount: 0.010009756
+  - c0: 103
+    c1: 58
+    amount: 0.030029269
+  - c0: 103
+    c1: 41
+    amount: 0.030029269
+  - c0: 102
+    c1: 122
+    amount: 0.010009756
+  - c0: 102
+    c1: 121
+    amount: 0.020019513
+  - c0: 102
+    c1: 119
+    amount: 0.020019513
+  - c0: 102
+    c1: 117
+    amount: 0.010009756
+  - c0: 102
+    c1: 116
+    amount: 0.020019513
+  - c0: 102
+    c1: 115
+    amount: 0.020019513
+  - c0: 102
+    c1: 111
+    amount: 0.010009756
+  - c0: 102
+    c1: 108
+    amount: 0.010009756
+  - c0: 102
+    c1: 106
+    amount: 0.010009756
+  - c0: 102
+    c1: 105
+    amount: 0.010009756
+  - c0: 41
+    c1: 33
+    amount: 0.040039025
+  - c0: 41
+    c1: 41
+    amount: 0.030029269
+  - c0: 41
+    c1: 44
+    amount: 0.040039025
+  - c0: 41
+    c1: 46
+    amount: 0.040039025
+  - c0: 41
+    c1: 58
+    amount: 0.030029269
+  - c0: 102
+    c1: 103
+    amount: 0.010009756
+  - c0: 41
+    c1: 63
+    amount: 0.030029269
+  - c0: 102
+    c1: 102
+    amount: 0.020019513
+  - c0: 102
+    c1: 101
+    amount: 0.010009756
+  - c0: 102
+    c1: 100
+    amount: 0.010009756
+  - c0: 102
+    c1: 99
+    amount: 0.010009756
+  - c0: 102
+    c1: 97
+    amount: 0.010009756
+  - c0: 102
+    c1: 63
+    amount: 0.020019513
+  - c0: 102
+    c1: 58
+    amount: 0.030029269
+  - c0: 102
+    c1: 41
+    amount: 0.030029269
+  - c0: 102
+    c1: 39
+    amount: 0.010009756
+  - c0: 102
+    c1: 33
+    amount: 0.010009756
+  - c0: 101
+    c1: 122
+    amount: 0.010009756
+  - c0: 101
+    c1: 116
+    amount: 0.010009756
+  - c0: 101
+    c1: 115
+    amount: 0.010009756
+  - c0: 101
+    c1: 102
+    amount: 0.010009756
+  - c0: 101
+    c1: 58
+    amount: 0.030029269
+  - c0: 101
+    c1: 41
+    amount: 0.030029269
+  - c0: 100
+    c1: 122
+    amount: 0.010009756
+  - c0: 100
+    c1: 121
+    amount: 0.010009756
+  - c0: 100
+    c1: 119
+    amount: 0.010009756
+  - c0: 100
+    c1: 118
+    amount: 0.010009756
+  - c0: 100
+    c1: 58
+    amount: 0.030029269
+  - c0: 100
+    c1: 41
+    amount: 0.030029269
+  - c0: 99
+    c1: 121
+    amount: 0.010009756
+  - c0: 99
+    c1: 116
+    amount: 0.010009756
+  - c0: 99
+    c1: 115
+    amount: 0.010009756
+  - c0: 99
+    c1: 74
+    amount: 0.020019513
+  - c0: 44
+    c1: 41
+    amount: 0.030029269
+  - c0: 99
+    c1: 58
+    amount: 0.030029269
+  - c0: 99
+    c1: 46
+    amount: 0.010009756
+  - c0: 99
+    c1: 41
+    amount: 0.030029269
+  - c0: 44
+    c1: 58
+    amount: 0.040039025
+  - c0: 98
+    c1: 122
+    amount: 0.010009756
+  - c0: 44
+    c1: 63
+    amount: -0.020019513
+  - c0: 98
+    c1: 58
+    amount: 0.030029269
+  - c0: 98
+    c1: 41
+    amount: 0.030029269
+  - c0: 97
+    c1: 122
+    amount: 0.010009756
+  - c0: 97
+    c1: 120
+    amount: 0.010009756
+  - c0: 97
+    c1: 116
+    amount: 0.010009756
+  - c0: 97
+    c1: 58
+    amount: 0.030029269
+  - c0: 97
+    c1: 41
+    amount: 0.030029269
+  - c0: 90
+    c1: 111
+    amount: 0.010009756
+  - c0: 90
+    c1: 101
+    amount: 0.010009756
+  - c0: 90
+    c1: 97
+    amount: 0.010009756
+  - c0: 90
+    c1: 90
+    amount: 0.020019513
+  - c0: 90
+    c1: 89
+    amount: 0.020019513
+  - c0: 90
+    c1: 87
+    amount: 0.020019513
+  - c0: 90
+    c1: 65
+    amount: 0.020019513
+  - c0: 90
+    c1: 63
+    amount: 0.010009756
+  - c0: 90
+    c1: 58
+    amount: 0.020019513
+  - c0: 90
+    c1: 46
+    amount: 0.010009756
+  - c0: 90
+    c1: 44
+    amount: 0.010009756
+  - c0: 90
+    c1: 41
+    amount: 0.020019513
+  - c0: 90
+    c1: 39
+    amount: 0.010009756
+  - c0: 89
+    c1: 117
+    amount: -0.010009756
+  - c0: 89
+    c1: 113
+    amount: -0.020019513
+  - c0: 89
+    c1: 112
+    amount: -0.010009756
+  - c0: 89
+    c1: 111
+    amount: -0.020019513
+  - c0: 89
+    c1: 105
+    amount: 0.010009756
+  - c0: 89
+    c1: 103
+    amount: -0.020019513
+  - c0: 89
+    c1: 101
+    amount: -0.020019513
+  - c0: 89
+    c1: 97
+    amount: -0.020019513
+  - c0: 89
+    c1: 90
+    amount: 0.010009756
+  - c0: 89
+    c1: 88
+    amount: 0.030029269
+  - c0: 89
+    c1: 87
+    amount: 0.030029269
+  - c0: 89
+    c1: 86
+    amount: 0.030029269
+  - c0: 89
+    c1: 84
+    amount: 0.030029269
+  - c0: 89
+    c1: 83
+    amount: 0.010009756
+  - c0: 46
+    c1: 39
+    amount: -0.020019513
+  - c0: 46
+    c1: 41
+    amount: 0.030029269
+  - c0: 89
+    c1: 74
+    amount: -0.030029269
+  - c0: 89
+    c1: 65
+    amount: -0.010009756
+  - c0: 89
+    c1: 63
+    amount: 0.010009756
+  - c0: 89
+    c1: 46
+    amount: -0.040039025
+  - c0: 46
+    c1: 58
+    amount: 0.040039025
+  - c0: 89
+    c1: 44
+    amount: -0.040039025
+  - c0: 46
+    c1: 63
+    amount: -0.020019513
+  - c0: 89
+    c1: 41
+    amount: 0.020019513
+  - c0: 89
+    c1: 39
+    amount: 0.020019513
+  - c0: 89
+    c1: 33
+    amount: 0.010009756
+  - c0: 88
+    c1: 117
+    amount: 0.010009756
+  - c0: 88
+    c1: 97
+    amount: 0.010009756
+  - c0: 88
+    c1: 89
+    amount: 0.030029269
+  - c0: 88
+    c1: 87
+    amount: 0.020019513
+  - c0: 88
+    c1: 84
+    amount: 0.030029269
+  - c0: 88
+    c1: 65
+    amount: 0.030029269
+  - c0: 88
+    c1: 58
+    amount: 0.020019513
+  - c0: 88
+    c1: 46
+    amount: 0.020019513
+  - c0: 88
+    c1: 44
+    amount: 0.020019513
+  - c0: 88
+    c1: 41
+    amount: 0.020019513
+  - c0: 88
+    c1: 39
+    amount: 0.010009756
+  - c0: 88
+    c1: 33
+    amount: 0.010009756
+  - c0: 87
+    c1: 121
+    amount: 0.010009756
+  - c0: 87
+    c1: 108
+    amount: 0.010009756
+  - c0: 87
+    c1: 106
+    amount: 0.010009756
+  - c0: 87
+    c1: 105
+    amount: 0.010009756
+  - c0: 87
+    c1: 104
+    amount: 0.010009756
+  - c0: 87
+    c1: 97
+    amount: -0.010009756
+  - c0: 87
+    c1: 90
+    amount: 0.010009756
+  - c0: 87
+    c1: 89
+    amount: 0.030029269
+  - c0: 87
+    c1: 87
+    amount: 0.020019513
+  - c0: 87
+    c1: 86
+    amount: 0.020019513
+  - c0: 87
+    c1: 85
+    amount: 0.010009756
+  - c0: 87
+    c1: 84
+    amount: 0.030029269
+  - c0: 87
+    c1: 83
+    amount: 0.010009756
+  - c0: 87
+    c1: 82
+    amount: 0.010009756
+  - c0: 87
+    c1: 80
+    amount: 0.010009756
+  - c0: 87
+    c1: 78
+    amount: 0.010009756
+  - c0: 87
+    c1: 77
+    amount: 0.010009756
+  - c0: 87
+    c1: 76
+    amount: 0.010009756
+  - c0: 87
+    c1: 75
+    amount: 0.010009756
+  - c0: 87
+    c1: 73
+    amount: 0.010009756
+  - c0: 87
+    c1: 72
+    amount: 0.010009756
+  - c0: 87
+    c1: 70
+    amount: 0.010009756
+  - c0: 87
+    c1: 69
+    amount: 0.010009756
+  - c0: 87
+    c1: 68
+    amount: 0.010009756
+  - c0: 87
+    c1: 66
+    amount: 0.010009756
+  - c0: 87
+    c1: 65
+    amount: -0.010009756
+  - c0: 87
+    c1: 63
+    amount: 0.010009756
+  - c0: 87
+    c1: 58
+    amount: 0.020019513
+  - c0: 87
+    c1: 46
+    amount: -0.020019513
+  - c0: 87
+    c1: 44
+    amount: -0.020019513
+  - c0: 87
+    c1: 41
+    amount: 0.030029269
+  - c0: 87
+    c1: 39
+    amount: 0.010009756
+  - c0: 87
+    c1: 33
+    amount: 0.010009756
+  - c0: 86
+    c1: 121
+    amount: 0.010009756
+  - c0: 86
+    c1: 108
+    amount: 0.010009756
+  - c0: 86
+    c1: 106
+    amount: 0.010009756
+  - c0: 86
+    c1: 105
+    amount: 0.010009756
+  - c0: 86
+    c1: 104
+    amount: 0.010009756
+  - c0: 48
+    c1: 41
+    amount: 0.030029269
+  - c0: 86
+    c1: 89
+    amount: 0.030029269
+  - c0: 48
+    c1: 58
+    amount: 0.030029269
+  - c0: 86
+    c1: 85
+    amount: 0.010009756
+  - c0: 48
+    c1: 63
+    amount: 0.010009756
+  - c0: 86
+    c1: 84
+    amount: 0.030029269
+  - c0: 86
+    c1: 83
+    amount: 0.010009756
+  - c0: 86
+    c1: 82
+    amount: 0.010009756
+  - c0: 86
+    c1: 79
+    amount: 0.010009756
+  - c0: 49
+    c1: 33
+    amount: -0.040039025
+  - c0: 86
+    c1: 76
+    amount: 0.010009756
+  - c0: 49
+    c1: 44
+    amount: -0.030029269
+  - c0: 49
+    c1: 46
+    amount: -0.030029269
+  - c0: 86
+    c1: 73
+    amount: 0.010009756
+  - c0: 86
+    c1: 72
+    amount: 0.010009756
+  - c0: 49
+    c1: 63
+    amount: -0.030029269
+  - c0: 86
+    c1: 69
+    amount: 0.010009756
+  - c0: 86
+    c1: 65
+    amount: -0.010009756
+  - c0: 86
+    c1: 63
+    amount: 0.010009756
+  - c0: 86
+    c1: 58
+    amount: 0.020019513
+  - c0: 86
+    c1: 46
+    amount: -0.020019513
+  - c0: 50
+    c1: 41
+    amount: 0.020019513
+  - c0: 50
+    c1: 58
+    amount: 0.020019513
+  - c0: 86
+    c1: 44
+    amount: -0.020019513
+  - c0: 50
+    c1: 63
+    amount: 0.010009756
+  - c0: 86
+    c1: 41
+    amount: 0.030029269
+  - c0: 86
+    c1: 33
+    amount: 0.010009756
+  - c0: 85
+    c1: 121
+    amount: 0.010009756
+  - c0: 85
+    c1: 120
+    amount: 0.010009756
+  - c0: 51
+    c1: 41
+    amount: 0.030029269
+  - c0: 85
+    c1: 119
+    amount: 0.010009756
+  - c0: 85
+    c1: 118
+    amount: 0.010009756
+  - c0: 51
+    c1: 58
+    amount: 0.030029269
+  - c0: 85
+    c1: 89
+    amount: 0.010009756
+  - c0: 85
+    c1: 88
+    amount: 0.010009756
+  - c0: 85
+    c1: 87
+    amount: 0.010009756
+  - c0: 85
+    c1: 86
+    amount: 0.010009756
+  - c0: 85
+    c1: 84
+    amount: 0.010009756
+  - c0: 85
+    c1: 58
+    amount: 0.030029269
+  - c0: 52
+    c1: 41
+    amount: 0.020019513
+  - c0: 85
+    c1: 41
+    amount: 0.030029269
+  - c0: 85
+    c1: 33
+    amount: -0.010009756
+  - c0: 52
+    c1: 58
+    amount: 0.020019513
+  - c0: 84
+    c1: 121
+    amount: -0.020019513
+  - c0: 52
+    c1: 63
+    amount: -0.010009756
+  - c0: 84
+    c1: 119
+    amount: -0.020019513
+  - c0: 84
+    c1: 118
+    amount: -0.020019513
+  - c0: 84
+    c1: 117
+    amount: -0.030029269
+  - c0: 84
+    c1: 115
+    amount: -0.030029269
+  - c0: 84
+    c1: 114
+    amount: -0.030029269
+  - c0: 53
+    c1: 41
+    amount: 0.020019513
+  - c0: 84
+    c1: 111
+    amount: -0.030029269
+  - c0: 84
+    c1: 108
+    amount: 0.010009756
+  - c0: 53
+    c1: 58
+    amount: 0.020019513
+  - c0: 84
+    c1: 106
+    amount: 0.010009756
+  - c0: 84
+    c1: 105
+    amount: 0.010009756
+  - c0: 84
+    c1: 104
+    amount: 0.010009756
+  - c0: 84
+    c1: 103
+    amount: -0.030029269
+  - c0: 84
+    c1: 101
+    amount: -0.030029269
+  - c0: 84
+    c1: 99
+    amount: -0.030029269
+  - c0: 84
+    c1: 97
+    amount: -0.030029269
+  - c0: 54
+    c1: 41
+    amount: 0.030029269
+  - c0: 54
+    c1: 58
+    amount: 0.030029269
+  - c0: 84
+    c1: 90
+    amount: 0.010009756
+  - c0: 84
+    c1: 89
+    amount: 0.030029269
+  - c0: 84
+    c1: 88
+    amount: 0.030029269
+  - c0: 84
+    c1: 87
+    amount: 0.030029269
+  - c0: 84
+    c1: 86
+    amount: 0.030029269
+  - c0: 84
+    c1: 85
+    amount: 0.010009756
+  - c0: 84
+    c1: 84
+    amount: 0.030029269
+  - c0: 55
+    c1: 41
+    amount: 0.010009756
+  - c0: 55
+    c1: 44
+    amount: -0.040039025
+  - c0: 55
+    c1: 46
+    amount: -0.040039025
+  - c0: 84
+    c1: 83
+    amount: 0.020019513
+  - c0: 84
+    c1: 82
+    amount: 0.010009756
+  - c0: 84
+    c1: 81
+    amount: 0.010009756
+  - c0: 84
+    c1: 80
+    amount: 0.010009756
+  - c0: 84
+    c1: 79
+    amount: 0.010009756
+  - c0: 84
+    c1: 78
+    amount: 0.010009756
+  - c0: 84
+    c1: 77
+    amount: 0.010009756
+  - c0: 56
+    c1: 41
+    amount: 0.030029269
+  - c0: 84
+    c1: 76
+    amount: 0.010009756
+  - c0: 56
+    c1: 58
+    amount: 0.030029269
+  - c0: 84
+    c1: 75
+    amount: 0.010009756
+  - c0: 84
+    c1: 74
+    amount: -0.020019513
+  - c0: 84
+    c1: 73
+    amount: 0.010009756
+  - c0: 84
+    c1: 72
+    amount: 0.010009756
+  - c0: 84
+    c1: 71
+    amount: 0.010009756
+  - c0: 84
+    c1: 70
+    amount: 0.010009756
+  - c0: 84
+    c1: 69
+    amount: 0.010009756
+  - c0: 57
+    c1: 41
+    amount: 0.030029269
+  - c0: 57
+    c1: 58
+    amount: 0.030029269
+  - c0: 84
+    c1: 68
+    amount: 0.010009756
+  - c0: 57
+    c1: 63
+    amount: 0.010009756
+  - c0: 84
+    c1: 67
+    amount: 0.010009756
+  - c0: 84
+    c1: 66
+    amount: 0.010009756
+  - c0: 84
+    c1: 65
+    amount: -0.010009756
+  - c0: 84
+    c1: 63
+    amount: 0.020019513
+  - c0: 58
+    c1: 33
+    amount: 0.030029269
+  - c0: 58
+    c1: 41
+    amount: 0.020019513
+  - c0: 58
+    c1: 44
+    amount: 0.040039025
+  - c0: 58
+    c1: 46
+    amount: 0.040039025
+  - c0: 58
+    c1: 58
+    amount: 0.030029269
+  - c0: 84
+    c1: 46
+    amount: -0.030029269
+  - c0: 58
+    c1: 63
+    amount: 0.020019513
+  - c0: 84
+    c1: 44
+    amount: -0.030029269
+  - c0: 84
+    c1: 41
+    amount: 0.010009756
+  - c0: 84
+    c1: 39
+    amount: 0.020019513
+  - c0: 84
+    c1: 33
+    amount: 0.010009756
+  - c0: 83
+    c1: 121
+    amount: 0.010009756
+  - c0: 83
+    c1: 119
+    amount: 0.010009756
+  - c0: 83
+    c1: 118
+    amount: 0.010009756
+  - c0: 83
+    c1: 116
+    amount: 0.010009756
+  - c0: 83
+    c1: 113
+    amount: 0.010009756
+  - c0: 83
+    c1: 111
+    amount: 0.010009756
+  - c0: 83
+    c1: 108
+    amount: 0.010009756
+  - c0: 83
+    c1: 105
+    amount: 0.010009756
+  - c0: 83
+    c1: 104
+    amount: 0.010009756
+  - c0: 83
+    c1: 101
+    amount: 0.010009756
+  - c0: 83
+    c1: 99
+    amount: 0.010009756
+  - c0: 83
+    c1: 97
+    amount: 0.010009756
+  - c0: 83
+    c1: 90
+    amount: 0.010009756
+  - c0: 83
+    c1: 84
+    amount: 0.010009756
+  - c0: 83
+    c1: 83
+    amount: 0.010009756
+  - c0: 83
+    c1: 79
+    amount: 0.010009756
+  - c0: 83
+    c1: 74
+    amount: 0.020019513
+  - c0: 83
+    c1: 71
+    amount: 0.010009756
+  - c0: 83
+    c1: 67
+    amount: 0.010009756
+  - c0: 83
+    c1: 65
+    amount: 0.010009756
+  - c0: 83
+    c1: 58
+    amount: 0.030029269
+  - c0: 83
+    c1: 46
+    amount: 0.010009756
+  - c0: 83
+    c1: 44
+    amount: 0.010009756
+  - c0: 83
+    c1: 41
+    amount: 0.030029269
+  - c0: 82
+    c1: 121
+    amount: 0.010009756
+  - c0: 82
+    c1: 90
+    amount: 0.010009756
+  - c0: 82
+    c1: 88
+    amount: 0.020019513
+  - c0: 82
+    c1: 84
+    amount: 0.010009756
+  - c0: 82
+    c1: 74
+    amount: 0.010009756
+  - c0: 82
+    c1: 65
+    amount: 0.020019513
+  - c0: 82
+    c1: 58
+    amount: 0.030029269
+  - c0: 82
+    c1: 41
+    amount: 0.030029269
+  - c0: 81
+    c1: 58
+    amount: 0.030029269
+  - c0: 81
+    c1: 41
+    amount: 0.030029269
+  - c0: 80
+    c1: 121
+    amount: 0.020019513
+  - c0: 80
+    c1: 119
+    amount: 0.020019513
+  - c0: 80
+    c1: 116
+    amount: 0.020019513
+  - c0: 80
+    c1: 111
+    amount: 0.010009756
+  - c0: 80
+    c1: 108
+    amount: 0.010009756
+  - c0: 80
+    c1: 105
+    amount: 0.010009756
+  - c0: 80
+    c1: 104
+    amount: 0.010009756
+  - c0: 80
+    c1: 102
+    amount: 0.020019513
+  - c0: 80
+    c1: 101
+    amount: 0.010009756
+  - c0: 80
+    c1: 90
+    amount: 0.010009756
+  - c0: 80
+    c1: 89
+    amount: 0.010009756
+  - c0: 63
+    c1: 41
+    amount: 0.010009756
+  - c0: 63
+    c1: 44
+    amount: -0.060058538
+  - c0: 63
+    c1: 46
+    amount: -0.060058538
+  - c0: 63
+    c1: 58
+    amount: 0.010009756
+  - c0: 80
+    c1: 88
+    amount: 0.010009756
+  - c0: 63
+    c1: 63
+    amount: 0.010009756
+  - c0: 80
+    c1: 87
+    amount: 0.010009756
+  - c0: 80
+    c1: 86
+    amount: 0.010009756
+  - c0: 80
+    c1: 85
+    amount: 0.010009756
+  - c0: 80
+    c1: 84
+    amount: 0.020019513
+  - c0: 80
+    c1: 83
+    amount: 0.010009756
+  - c0: 80
+    c1: 82
+    amount: 0.010009756
+  - c0: 80
+    c1: 81
+    amount: 0.010009756
+  - c0: 80
+    c1: 80
+    amount: 0.010009756
+  - c0: 80
+    c1: 79
+    amount: 0.010009756
+  - c0: 80
+    c1: 78
+    amount: 0.010009756
+  - c0: 80
+    c1: 77
+    amount: 0.010009756
+  - c0: 80
+    c1: 76
+    amount: 0.010009756
+  - c0: 80
+    c1: 75
+    amount: 0.010009756
+  - c0: 80
+    c1: 74
+    amount: -0.020019513
+  - c0: 80
+    c1: 73
+    amount: 0.010009756
+  - c0: 80
+    c1: 72
+    amount: 0.010009756
+  - c0: 65
+    c1: 33
+    amount: 0.010009756
+  - c0: 65
+    c1: 39
+    amount: -0.020019513
+  - c0: 65
+    c1: 41
+    amount: 0.020019513
+  - c0: 65
+    c1: 44
+    amount: 0.010009756
+  - c0: 80
+    c1: 71
+    amount: 0.010009756
+  - c0: 65
+    c1: 46
+    amount: 0.010009756
+  - c0: 65
+    c1: 58
+    amount: 0.030029269
+  - c0: 80
+    c1: 70
+    amount: 0.010009756
+  - c0: 80
+    c1: 69
+    amount: 0.010009756
+  - c0: 65
+    c1: 65
+    amount: 0.030029269
+  - c0: 65
+    c1: 66
+    amount: 0.010009756
+  - c0: 80
+    c1: 68
+    amount: 0.010009756
+  - c0: 80
+    c1: 67
+    amount: 0.010009756
+  - c0: 65
+    c1: 74
+    amount: 0.020019513
+  - c0: 80
+    c1: 66
+    amount: 0.010009756
+  - c0: 80
+    c1: 63
+    amount: 0.010009756
+  - c0: 65
+    c1: 83
+    amount: 0.010009756
+  - c0: 65
+    c1: 84
+    amount: -0.010009756
+  - c0: 80
+    c1: 58
+    amount: 0.010009756
+  - c0: 65
+    c1: 86
+    amount: -0.010009756
+  - c0: 65
+    c1: 87
+    amount: -0.010009756
+  - c0: 65
+    c1: 88
+    amount: 0.030029269
+  - c0: 65
+    c1: 89
+    amount: -0.020019513
+  - c0: 65
+    c1: 90
+    amount: 0.020019513
+  - c0: 80
+    c1: 46
+    amount: -0.060058538
+  - c0: 65
+    c1: 97
+    amount: 0.010009756
+  - c0: 65
+    c1: 98
+    amount: 0.010009756
+  - c0: 80
+    c1: 44
+    amount: -0.060058538
+  - c0: 65
+    c1: 100
+    amount: 0.010009756
+  - c0: 80
+    c1: 41
+    amount: 0.020019513
+  - c0: 65
+    c1: 103
+    amount: 0.010009756
+  - c0: 80
+    c1: 39
+    amount: 0.010009756
+  - c0: 79
+    c1: 121
+    amount: 0.010009756
+  - c0: 65
+    c1: 115
+    amount: 0.010009756
+  - c0: 79
+    c1: 120
+    amount: 0.010009756
+  - c0: 79
+    c1: 119
+    amount: 0.010009756
+  - c0: 65
+    c1: 118
+    amount: -0.010009756
+  - c0: 65
+    c1: 119
+    amount: -0.010009756
+  - c0: 65
+    c1: 121
+    amount: -0.010009756
+  - c0: 65
+    c1: 122
+    amount: 0.020019513
+  - c0: 79
+    c1: 118
+    amount: 0.010009756
+  - c0: 79
+    c1: 84
+    amount: 0.010009756
+  - c0: 79
+    c1: 74
+    amount: 0.010009756
+  - c0: 79
+    c1: 58
+    amount: 0.030029269
+  - c0: 79
+    c1: 41
+    amount: 0.030029269
+  - c0: 78
+    c1: 121
+    amount: 0.010009756
+  - c0: 78
+    c1: 89
+    amount: 0.010009756
+  - c0: 78
+    c1: 87
+    amount: 0.010009756
+  - c0: 78
+    c1: 84
+    amount: 0.010009756
+  - c0: 78
+    c1: 65
+    amount: 0.010009756
+  - c0: 78
+    c1: 58
+    amount: 0.030029269
+  - c0: 78
+    c1: 41
+    amount: 0.030029269
+  - c0: 77
+    c1: 121
+    amount: 0.010009756
+  - c0: 77
+    c1: 89
+    amount: 0.010009756
+  - c0: 77
+    c1: 87
+    amount: 0.010009756
+  - c0: 77
+    c1: 84
+    amount: 0.010009756
+  - c0: 66
+    c1: 41
+    amount: 0.030029269
+  - c0: 77
+    c1: 65
+    amount: 0.010009756
+  - c0: 66
+    c1: 58
+    amount: 0.030029269
+  - c0: 77
+    c1: 58
+    amount: 0.030029269
+  - c0: 77
+    c1: 41
+    amount: 0.030029269
+  - c0: 66
+    c1: 65
+    amount: 0.010009756
+  - c0: 76
+    c1: 121
+    amount: -0.010009756
+  - c0: 66
+    c1: 74
+    amount: 0.010009756
+  - c0: 76
+    c1: 117
+    amount: 0.010009756
+  - c0: 66
+    c1: 83
+    amount: 0.010009756
+  - c0: 66
+    c1: 84
+    amount: 0.010009756
+  - c0: 76
+    c1: 111
+    amount: 0.010009756
+  - c0: 76
+    c1: 106
+    amount: 0.010009756
+  - c0: 66
+    c1: 90
+    amount: 0.010009756
+  - c0: 76
+    c1: 105
+    amount: 0.010009756
+  - c0: 66
+    c1: 121
+    amount: 0.010009756
+  - c0: 76
+    c1: 101
+    amount: 0.010009756
+  - c0: 76
+    c1: 97
+    amount: 0.010009756
+  - c0: 76
+    c1: 90
+    amount: 0.020019513
+  - c0: 76
+    c1: 89
+    amount: -0.030029269
+  - c0: 76
+    c1: 87
+    amount: -0.010009756
+  - c0: 76
+    c1: 86
+    amount: -0.010009756
+  - c0: 76
+    c1: 85
+    amount: 0.010009756
+  - c0: 76
+    c1: 84
+    amount: -0.020019513
+  - c0: 76
+    c1: 83
+    amount: 0.010009756
+  - c0: 76
+    c1: 79
+    amount: 0.010009756
+  - c0: 76
+    c1: 77
+    amount: 0.010009756
+  - c0: 76
+    c1: 71
+    amount: 0.010009756
+  - c0: 76
+    c1: 67
+    amount: 0.010009756
+  - c0: 76
+    c1: 65
+    amount: 0.020019513
+  - c0: 76
+    c1: 63
+    amount: -0.010009756
+  - c0: 76
+    c1: 58
+    amount: 0.010009756
+  - c0: 76
+    c1: 46
+    amount: 0.010009756
+  - c0: 76
+    c1: 44
+    amount: 0.010009756
+  - c0: 67
+    c1: 41
+    amount: 0.030029269
+  - c0: 76
+    c1: 39
+    amount: -0.060058538
+  - c0: 76
+    c1: 33
+    amount: 0.010009756
+  - c0: 75
+    c1: 121
+    amount: -0.010009756
+  - c0: 67
+    c1: 58
+    amount: 0.030029269
+  - c0: 75
+    c1: 119
+    amount: -0.010009756
+  - c0: 67
+    c1: 63
+    amount: 0.010009756
+  - c0: 67
+    c1: 65
+    amount: 0.010009756
+  - c0: 67
+    c1: 67
+    amount: 0.010009756
+  - c0: 75
+    c1: 108
+    amount: 0.010009756
+  - c0: 67
+    c1: 71
+    amount: 0.010009756
+  - c0: 75
+    c1: 106
+    amount: 0.010009756
+  - c0: 67
+    c1: 74
+    amount: 0.020019513
+  - c0: 75
+    c1: 105
+    amount: 0.010009756
+  - c0: 67
+    c1: 79
+    amount: 0.010009756
+  - c0: 67
+    c1: 83
+    amount: 0.010009756
+  - c0: 67
+    c1: 84
+    amount: 0.020019513
+  - c0: 67
+    c1: 86
+    amount: 0.010009756
+  - c0: 67
+    c1: 87
+    amount: 0.010009756
+  - c0: 67
+    c1: 89
+    amount: 0.010009756
+  - c0: 67
+    c1: 90
+    amount: 0.010009756
+  - c0: 75
+    c1: 104
+    amount: 0.010009756
+  - c0: 75
+    c1: 97
+    amount: 0.010009756
+  - c0: 67
+    c1: 101
+    amount: 0.010009756
+  - c0: 67
+    c1: 111
+    amount: 0.010009756
+  - c0: 67
+    c1: 115
+    amount: 0.010009756
+  - c0: 67
+    c1: 121
+    amount: 0.020019513
+  - c0: 75
+    c1: 90
+    amount: 0.020019513
+  - c0: 75
+    c1: 89
+    amount: 0.020019513
+  - c0: 75
+    c1: 88
+    amount: 0.030029269
+  - c0: 75
+    c1: 87
+    amount: 0.020019513
+  - c0: 75
+    c1: 86
+    amount: 0.020019513
+  - c0: 75
+    c1: 85
+    amount: 0.010009756
+  - c0: 75
+    c1: 84
+    amount: 0.020019513
+  - c0: 75
+    c1: 82
+    amount: 0.010009756
+  - c0: 75
+    c1: 80
+    amount: 0.010009756
+  - c0: 75
+    c1: 78
+    amount: 0.010009756
+  - c0: 75
+    c1: 77
+    amount: 0.010009756
+  - c0: 75
+    c1: 76
+    amount: 0.010009756
+  - c0: 75
+    c1: 74
+    amount: 0.020019513
+  - c0: 75
+    c1: 73
+    amount: 0.010009756
+  - c0: 75
+    c1: 72
+    amount: 0.010009756
+  - c0: 75
+    c1: 70
+    amount: 0.010009756
+  - c0: 68
+    c1: 41
+    amount: 0.030029269
+  - c0: 75
+    c1: 69
+    amount: 0.010009756
+  - c0: 75
+    c1: 68
+    amount: 0.010009756
+  - c0: 75
+    c1: 66
+    amount: 0.010009756
+  - c0: 68
+    c1: 58
+    amount: 0.030029269
+  - c0: 75
+    c1: 65
+    amount: 0.030029269
+  - c0: 75
+    c1: 58
+    amount: 0.020019513
+  - c0: 75
+    c1: 46
+    amount: 0.020019513
+  - c0: 75
+    c1: 44
+    amount: 0.020019513
+  - c0: 68
+    c1: 74
+    amount: 0.010009756
+  - c0: 68
+    c1: 84
+    amount: 0.010009756
+  - c0: 75
+    c1: 41
+    amount: 0.020019513
+  - c0: 75
+    c1: 39
+    amount: 0.010009756
+  - c0: 75
+    c1: 33
+    amount: 0.010009756
+  - c0: 74
+    c1: 121
+    amount: 0.010009756
+  - c0: 74
+    c1: 89
+    amount: 0.010009756
+  - c0: 74
+    c1: 58
+    amount: 0.030029269
+  - c0: 74
+    c1: 41
+    amount: 0.030029269
+  - c0: 68
+    c1: 121
+    amount: 0.010009756
+  - c0: 74
+    c1: 33
+    amount: -0.010009756
+  - c0: 73
+    c1: 121
+    amount: 0.010009756
+  - c0: 73
+    c1: 89
+    amount: 0.010009756
+  - c0: 73
+    c1: 88
+    amount: 0.010009756
+  - c0: 73
+    c1: 87
+    amount: 0.010009756
+  - c0: 73
+    c1: 86
+    amount: 0.010009756
+  - c0: 73
+    c1: 84
+    amount: 0.010009756
+  - c0: 73
+    c1: 74
+    amount: 0.010009756
+  - c0: 73
+    c1: 65
+    amount: 0.010009756
+  - c0: 73
+    c1: 58
+    amount: 0.030029269
+  - c0: 73
+    c1: 41
+    amount: 0.030029269
+  - c0: 72
+    c1: 121
+    amount: 0.010009756
+  - c0: 69
+    c1: 41
+    amount: 0.020019513
+  - c0: 69
+    c1: 44
+    amount: 0.010009756
+  - c0: 72
+    c1: 89
+    amount: 0.010009756
+  - c0: 69
+    c1: 46
+    amount: 0.010009756
+  - c0: 69
+    c1: 58
+    amount: 0.020019513
+  - c0: 72
+    c1: 84
+    amount: 0.010009756
+  - c0: 72
+    c1: 65
+    amount: 0.010009756
+  - c0: 69
+    c1: 65
+    amount: 0.020019513
+  - c0: 72
+    c1: 58
+    amount: 0.030029269
+  - c0: 72
+    c1: 41
+    amount: 0.030029269
+  - c0: 71
+    c1: 121
+    amount: 0.010009756
+  - c0: 69
+    c1: 83
+    amount: 0.010009756
+  - c0: 69
+    c1: 84
+    amount: 0.020019513
+  - c0: 69
+    c1: 86
+    amount: 0.010009756
+  - c0: 69
+    c1: 87
+    amount: 0.010009756
+  - c0: 69
+    c1: 88
+    amount: 0.020019513
+  - c0: 69
+    c1: 89
+    amount: 0.020019513
+  - c0: 69
+    c1: 90
+    amount: 0.010009756
+  - c0: 71
+    c1: 119
+    amount: 0.010009756
+  - c0: 71
+    c1: 90
+    amount: 0.010009756
+  - c0: 71
+    c1: 88
+    amount: 0.020019513
+  - c0: 71
+    c1: 84
+    amount: 0.010009756
+  - c0: 71
+    c1: 65
+    amount: 0.010009756
+  - c0: 71
+    c1: 58
+    amount: 0.030029269
+  - c0: 71
+    c1: 41
+    amount: 0.030029269
+  - c0: 71
+    c1: 33
+    amount: -0.010009756
+  - c0: 70
+    c1: 121
+    amount: 0.010009756
+  - c0: 70
+    c1: 108
+    amount: 0.010009756
+  - c0: 70
+    c1: 106
+    amount: 0.010009756
+  - c0: 70
+    c1: 105
+    amount: 0.010009756
+  - c0: 70
+    c1: 104
+    amount: 0.010009756
+  - c0: 70
+    c1: 90
+    amount: 0.010009756
+  - c0: 69
+    c1: 115
+    amount: 0.010009756
+  - c0: 70
+    c1: 89
+    amount: 0.030029269
+  - c0: 70
+    c1: 87
+    amount: 0.020019513
+  - c0: 70
+    c1: 84
+    amount: 0.030029269
+  - c0: 70
+    c1: 83
+    amount: 0.020019513
+  - c0: 69
+    c1: 122
+    amount: 0.010009756
+  - c0: 70
+    c1: 79
+    amount: 0.010009756
+  - c0: 70
+    c1: 71
+    amount: 0.010009756
+  - c0: 70
+    c1: 67
+    amount: 0.010009756
+  - c0: 70
+    c1: 63
+    amount: 0.020019513
+  - c0: 70
+    c1: 58
+    amount: 0.010009756
+  - c0: 70
+    c1: 46
+    amount: -0.050048783
+  - c0: 70
+    c1: 33
+    amount: 0.010009756
+  - c0: 70
+    c1: 39
+    amount: 0.010009756
+  - c0: 70
+    c1: 41
+    amount: 0.020019513
+  - c0: 70
+    c1: 44
+    amount: -0.050048783
+  largestWidth: 0.4804683
+  material: {fileID: 2100000, guid: e6ed948b4ce32437faf118c9d0708daa, type: 2}
+  gradientTexture: {fileID: 0}
+  textureGradients: 0
+  gradientCount: 1
+  texelSize: {x: 0.010009756, y: 0.010009756}
+  invOrthoSize: 0.19493178
+  halfTargetHeight: 512.5
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 126802}
+  m_IsPrefabParent: 1

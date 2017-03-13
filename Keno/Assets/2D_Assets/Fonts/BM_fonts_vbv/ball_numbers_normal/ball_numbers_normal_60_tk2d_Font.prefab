@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &199642
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 412734}
+  - 114: {fileID: 11423204}
+  m_Layer: 0
+  m_Name: ball_numbers_normal_60_tk2d_Font
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &412734
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 199642}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+--- !u!114 &11423204
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 199642}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 35be0f790243a0c46b505c114d7122ae, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  bmFont: {fileID: 4900000, guid: c1a61d3ac3d074cd9a47eeebb863b418, type: 3}
+  material: {fileID: 2100000, guid: 846b22c385e6a4affb9a01197e411a12, type: 2}
+  texture: {fileID: 2800000, guid: 7fbe9622a13e14d0cb05b988b088b3ec, type: 3}
+  gradientTexture: {fileID: 0}
+  dupeCaps: 0
+  flipTextureY: 0
+  proxyFont: 0
+  useTk2dCamera: 0
+  targetHeight: 640
+  targetOrthoSize: 1
+  sizeDef:
+    type: 0
+    orthoSize: 5.13
+    pixelsPerMeter: 100
+    width: 960
+    height: 1025
+  gradientCount: 1
+  manageMaterial: 1
+  loadable: 0
+  charPadX: 0
+  data: {fileID: 11431958, guid: ab69e61d639b84d379bf5580be3459eb, type: 2}
+  version: 1
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 199642}
+  m_IsPrefabParent: 1
